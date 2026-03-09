@@ -11,3 +11,4 @@ Technologies:
 Python
 SHA-256
 File Integrity Monitoring
+https://roadmap.sh/projects/file-integrity-checker
